@@ -1,6 +1,6 @@
 # Привет, я Эльдар 👋
 
-Я разработчик программного обеспечения, обучающийся в ALEM School в Астане, Казахстан. Специализируюсь на создании практичных backend-систем и исследую hardware проекты.
+Я разработчик программного обеспечения, обучавшийся в ALEM School в Астане, Казахстан. Специализируюсь на создании практичных backend-систем и исследую hardware проекты.
 
 ## 🛠️ Технологический стек
 
@@ -63,7 +63,7 @@ CLI агрегатор RSS-лент с фоновой обработкой че�
 
 # Hi, I'm Eldar 👋
 
-I'm a software developer studying at ALEM School in Astana, Kazakhstan. I focus on building practical backend systems and exploring hardware projects.
+I'm a software developer studyed at ALEM School in Astana, Kazakhstan. I focus on building practical backend systems and exploring hardware projects.
 
 ## 🛠️ Tech Stack
 
