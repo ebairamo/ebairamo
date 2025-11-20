@@ -59,8 +59,8 @@ CLI агрегатор RSS-лент с фоновой обработкой че�
 
 Свяжитесь со мной для сотрудничества или просто пообщаться!
 
-- 📧 Email: [ваш email]
-- 💼 LinkedIn: [ваш LinkedIn]
+- 📧 Email: [napoleon5663@gmail.com]
+- 💼 LinkedIn:[-]
 - 🐕 Владелец джек-рассела терьера по имени Наруто 🐾
 
 ---
@@ -122,8 +122,8 @@ Currently developing backend services at ALEM, focusing on distributed systems, 
 
 Feel free to reach out for collaboration or just to connect!
 
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn]
+- 📧 Email: [napoleon5663@gmail.com]
+- 💼 LinkedIn: [-]
 - 🐕 Proud owner of a Jack Russell Terrier named Naruto 🐾
 
 ---
