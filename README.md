@@ -60,7 +60,7 @@ CLI агрегатор RSS-лент с фоновой обработкой че�
 Свяжитесь со мной для сотрудничества или просто пообщаться!
 
 - 📧 Email: [napoleon5663@gmail.com]
-- 💼 LinkedIn:[-]
+- 💼 LinkedIn:[https://www.linkedin.com/in/эльдар-байрамов-251980373]
 - 🐕 Владелец джек-рассела терьера по имени Наруто 🐾
 
 ---
@@ -123,7 +123,7 @@ Currently developing backend services at ALEM, focusing on distributed systems, 
 Feel free to reach out for collaboration or just to connect!
 
 - 📧 Email: [napoleon5663@gmail.com]
-- 💼 LinkedIn: [-]
+- 💼 LinkedIn: [https://www.linkedin.com/in/эльдар-байрамов-251980373/]
 - 🐕 Proud owner of a Jack Russell Terrier named Naruto 🐾
 
 ---
