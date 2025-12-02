@@ -1,9 +1,6 @@
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ebairamo&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ebairamo&layout=compact&theme=dark)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ebairamo&theme=dark)](https://git.io/streak-stats)
 # Привет, я Эльдар 👋
 
 Я разработчик программного обеспечения, обучавшийся в ALEM School в Астане, Казахстан. Специализируюсь на создании практичных backend-систем и исследую hardware проекты.
